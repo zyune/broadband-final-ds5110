@@ -12,7 +12,9 @@ We used [The US Census Bureau APIs](https://www.census.gov/data/developers/data-
 
 Is there any correlation between broadband connectivity and other socio-economic demographics in the state of Maine?
 
-This repository aims to visualize and demonstrate broadband access in Maine in context of other socio-economic demographics.
+Does the current broadband layout needs improvement? Is there any place that needs a faster internet connection but that don't have it now?
+
+This repository aims to visualize and evaluate broadband access in Maine in context of other socio-economic demographics.
 
 The broadband access  and socio-economic demographics varies across Maine, creating the need for county-level and state-level data visuals to provide support for the decision making body and MCA's projects.
 
@@ -22,11 +24,11 @@ The broadband access  and socio-economic demographics varies across Maine, creat
 ![proposal](https://user-images.githubusercontent.com/66234261/180064366-1a72e511-5184-481a-af4e-9ed83cb25246.png)
 
 
-### Project Plan & Stakeholder
+## Project Plan & Stakeholder
 
 Roles and Responsabilities
 
-On this project, [Zheng Yune](https://github.com/zyune) will be working on the backend side and [Evrard Ngabirano](https://github.com/ebibia) on the front end and presentation side.
+On this project, [Zheng Yune](https://github.com/zyune) will be working on the backend side and [Evrard Ngabirano](https://github.com/ebibia) on the front end side and presentation.
 
 
 
