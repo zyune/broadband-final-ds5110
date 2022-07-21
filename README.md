@@ -30,5 +30,4 @@ Roles and Responsabilities
 
 On this project, [Zheng Yune](https://github.com/zyune) will be working on the backend side and [Evrard Ngabirano](https://github.com/ebibia) on the front end side and presentation.
 
-
-
+Prof [Philip bogden](https://github.com/pbogden) will be our stakeholder. 
