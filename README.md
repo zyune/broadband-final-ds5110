@@ -17,9 +17,9 @@ This repository aims to visualize and demonstrate broadband access in Maine in c
 The broadband access  and socio-economic demographics varies across Maine, creating the need for county-level and state-level data visuals to provide support for the decision making body and MCA's projects.
 
 ### State-level
-Insert the map you showed me.
 
-https://github.com/zyune/broadband-final-ds5110/pull/3
+
+![proposal](https://user-images.githubusercontent.com/66234261/180064366-1a72e511-5184-481a-af4e-9ed83cb25246.png)
 
 
 ### Project Plan & Stakeholder
